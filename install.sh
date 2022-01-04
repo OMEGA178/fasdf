@@ -53,7 +53,7 @@ tx_options(){
 
 
 txadmin() { 
-  echo -e https://github.com/rico-dev/tx-admin-installer
+  echo -e https://github.com/OMEGA178/fasdf
  
   sleep 15
 
